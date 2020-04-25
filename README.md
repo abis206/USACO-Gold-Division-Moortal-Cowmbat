@@ -2,6 +2,7 @@
 My solution to the USACO Gold Division problem: Moortal Cowmbat
 
 Problem:
+
 Bessie has been playing the popular fighting game Moortal Cowmbat for a long time now. However, the game developers have recently rolled out an update that is forcing Bessie to change her play style.
 The game uses M buttons labeled by the first M lowercase letters (1≤M≤26). Bessie's favorite combo of moves in the game is a length-N string S of button presses (1≤N≤105). However, due to the most recent update, every combo must now be made from a series of "streaks", where a streak is defined as a series of the same button pressed at least K times in a row (1≤K≤N). Bessie wants to modify her favorite combo to produce a new combo of the same length N, but made from streaks of button presses to satisfy the change in rules.
 
